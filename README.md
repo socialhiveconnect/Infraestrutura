@@ -45,4 +45,4 @@ Infraestrutura lida com a parte física e virtual de diversos equipamentos. Muit
 → Administrador de redes:
 → DevOps:
 → Infraestrutura em Nuvem:
-- **→  Network engineer:**
+- →  Network engineer:
