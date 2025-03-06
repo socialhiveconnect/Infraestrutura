@@ -17,32 +17,32 @@ Infraestrutura lida com a parte física e virtual de diversos equipamentos. Muit
   
   Principais Características:
 
-→ Pensamento Analítico: Diagnostica falhas rapidamente e toma decisões assertivas.
-→ Disponibilidade: Altissima 
-→ Resiliência: Consegue lidar com pressão, incidentes e emergências sem perder o controle.
-→ Atenção aos Detalhes: Pequenos erros podem causar grandes problemas na infraestrutura.
-→ Organização: Mantém a documentação, configurações e processos bem estruturados.
-→ Trabalho em Equipe: Atua em conjunto com times de segurança, redes, desenvolvimento e suporte.
-→ Senso de Urgência: Resolve incidentes rapidamente para evitar downtime.
-→ Foco em Automação: Busca otimizar processos repetitivos para ganhar eficiência.
+- **Pensamento Analítico:** Diagnostica falhas rapidamente e toma decisões assertivas.  
+- **Disponibilidade:** Alta, podendo ser necessário atuar fora do horário comercial.  
+- **Resiliência:** Lida com pressão, incidentes e emergências sem perder o controle.  
+- **Atenção aos Detalhes:** Pequenos erros podem causar grandes problemas na infraestrutura.  
+- **Organização:** Mantém documentação, configurações e processos bem estruturados.  
+- **Trabalho em Equipe:** Atua em conjunto com times de segurança, redes, desenvolvimento e suporte.  
+- **Senso de Urgência:** Resolve incidentes rapidamente para evitar downtime.  
+- **Foco em Automação:** Busca otimizar processos repetitivos para ganhar eficiência.
 
 ## Habilidades Técnicas Importantes:
-→ Sistemas Operacionais: Administração de Linux e Windows Server
-→ Redes: Configuração de VLANs, VPNs, firewalls e roteadores
-→ Servidores: Gerenciamento de Active Directory, DNS, DHCP
-→ Cloud Computing: Experiência com AWS, Azure, GCP
-→ Virtualização: Uso de VMware, Hyper-V, Proxmox
-→ Monitoramento: Ferramentas como Zabbix, Prometheus, Grafana
-→ Automação: Scripts em PowerShell, Bash, Python, ansible.
-→ Contêineres: Docker, kubernetes.
+- **Sistemas Operacionais:** Administração de **Linux** e **Windows Server**  
+- **Redes:** Configuração de **VLANs, VPNs, firewalls e roteadores**  
+- **Servidores:** Gerenciamento de **Active Directory, DNS, DHCP**  
+- **Cloud Computing:** Experiência com **AWS, Azure, GCP**  
+- **Virtualização:** Uso de **VMware, Hyper-V, Proxmox**  
+- **Monitoramento:** Ferramentas como **Zabbix, Prometheus, Grafana**  
+- **Automação:** Scripts em **PowerShell, Bash, Python, Ansible**  
+- **Contêineres:** Uso de **Docker e Kubernetes**  
 
 ## Áreas principais:
-→ Analista de infraestrutura:
-→ Cabeamentos:
-→ NOC:
-→ Administrador de servidores
-→ Virtualização:
-→ Administrador de redes:
-→ DevOps:
-→ Infraestrutura em Nuvem:
-- →  Network engineer:
+- **Analista de Infraestrutura**  
+- **Cabeamento**  
+- **NOC**  
+- **Administrador de Servidores**  
+- **Virtualização**  
+- **Administrador de Redes**  
+- **DevOps**  
+- **Infraestrutura em Nuvem**  
+- **Network Engineer**  
