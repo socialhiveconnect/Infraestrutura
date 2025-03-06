@@ -45,3 +45,6 @@ Infraestrutura lida com a parte física e virtual de diversos equipamentos. Muit
 - **DevOps**  
 - **Infraestrutura em Nuvem**  
 - **Network Engineer**  
+
+---
+**Vamos juntos fortalecer o conhecimento, Hive.Connect uma comunidade de todos, para todos!**  
