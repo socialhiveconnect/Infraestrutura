@@ -6,10 +6,10 @@
 ## Objetivo
 &nbsp;&nbsp;&nbsp;&nbsp;O objetivo desta trilha é te capacitar para entrar no mercado de infraestruturas/redes, saindo do completo zero em infraestrutura de TI e alcançar a habilidade de:
 
-→ Configurar e administrar servidores e redes;
-→ Gerenciar ativos de TI e garantir a disponibilidade dos serviços;
-→ Implementar boas práticas de segurança e automação.
-→ Ao final desta trilha, você terá o conhecimento necessário para atuar em infraestrutura, otimizar ambientes de TI e colaborar com equipes, aplicando as melhores práticas do setor.
+Configurar e administrar servidores e redes;
+Gerenciar ativos de TI e garantir a disponibilidade dos serviços;
+Implementar boas práticas de segurança e automação.
+Ao final desta trilha, você terá o conhecimento necessário para atuar em infraestrutura, otimizar ambientes de TI e colaborar com equipes, aplicando as melhores práticas do setor.
 
 ## Perfil de um Profissional de Infraestrutura
 &nbsp;&nbsp;&nbsp;&nbsp;Quem trabalha com infraestrutura de TI precisa ter um perfil analítico, organizado e resiliente, já que lida diretamente com disponibilidade, desempenho e segurança dos sistemas. Além disso, a capacidade de resolver problemas sob pressão é essencial.
