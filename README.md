@@ -1,6 +1,7 @@
 <h1 align="center">HIVE.CONNECT</h1>
 <div align="center">
   <img src="rede.png" alt="Git" width="120px" />
+  <h1 align="center">Infraestrutura</h1>
 </div>
 
 ## Objetivo
