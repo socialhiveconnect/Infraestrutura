@@ -47,12 +47,11 @@ Infraestrutura lida com a parte física e virtual de diversos equipamentos. Muit
 - **Infraestrutura em Nuvem**  
 - **Network Engineer**
 
----
  ## Título para linkedin:
-Infraestrutura de TI | Redes | Administração de Sistemas | Virtualização | Linux | Suporte Técnico | CCNA em andamento | Certificação LPIC-1
-Infraestrutura | Suporte e Redes | Administração de Servidores | Linux | Cloud Computing | Certificação AWS | CCNP em andamento | ITIL
-Infraestrutura de TI | Redes | Segurança de Sistemas | Suporte Técnico | Windows Server | CCNA | ITIL Foundation | Certificação LPIC-1 em andamento
-Infraestrutura de TI | Administração de Redes | Cloud Solutions | Suporte Técnico | Certificação VMware | CCNA | Microsoft Certified Solutions Associate (MCSA)
+**Infraestrutura de TI | Redes | Administração de Sistemas | Virtualização | Linux | Suporte Técnico | CCNA em andamento | Certificação LPIC-1**
+**Infraestrutura | Suporte e Redes | Administração de Servidores | Linux | Cloud Computing | Certificação AWS | CCNP em andamento | ITIL**
+**Infraestrutura de TI | Redes | Segurança de Sistemas | Suporte Técnico | Windows Server | CCNA | ITIL Foundation | Certificação LPIC-1 em andamento**
+**Infraestrutura de TI | Administração de Redes | Cloud Solutions | Suporte Técnico | Certificação VMware | CCNA | Microsoft Certified Solutions Associate (MCSA)**
 - **Esses são alguns exemplos, você pode fazer o seu personalizado. Só seguir a mesma estrutura e é segredo para o sucesso.**
 ---
 **Vamos juntos fortalecer o conhecimento, Hive.Connect uma comunidade de todos, para todos!**  
