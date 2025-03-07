@@ -47,11 +47,16 @@ Infraestrutura lida com a parte física e virtual de diversos equipamentos. Muit
 - **Infraestrutura em Nuvem**  
 - **Network Engineer**
 
- ## Título para linkedin:
-**Infraestrutura de TI | Redes | Administração de Sistemas | Virtualização | Linux | Suporte Técnico | CCNA em andamento | Certificação LPIC-1**
-**Infraestrutura | Suporte e Redes | Administração de Servidores | Linux | Cloud Computing | Certificação AWS | CCNP em andamento | ITIL**
-**Infraestrutura de TI | Redes | Segurança de Sistemas | Suporte Técnico | Windows Server | CCNA | ITIL Foundation | Certificação LPIC-1 em andamento**
-**Infraestrutura de TI | Administração de Redes | Cloud Solutions | Suporte Técnico | Certificação VMware | CCNA | Microsoft Certified Solutions Associate (MCSA)**
-- **Esses são alguns exemplos, você pode fazer o seu personalizado. Só seguir a mesma estrutura e é segredo para o sucesso.**
+## Título para LinkedIn:
+
+**Infraestrutura de TI | Redes | Administração de Sistemas | Virtualização | Linux | Suporte Técnico | CCNA em andamento | Certificação LPIC-1**  
+<br>  
+**Infraestrutura | Suporte e Redes | Administração de Servidores | Linux | Cloud Computing | Certificação AWS | CCNP em andamento | ITIL**  
+<br>  
+**Infraestrutura de TI | Redes | Segurança de Sistemas | Suporte Técnico | Windows Server | CCNA | ITIL Foundation | Certificação LPIC-1 em andamento**  
+<br>  
+**Infraestrutura de TI | Administração de Redes | Cloud Solutions | Suporte Técnico | Certificação VMware | CCNA | Microsoft Certified Solutions Associate (MCSA)**  
+
+- **Esses são apenas alguns exemplos. Você pode criar o seu título personalizado seguindo a mesma estrutura: escolha a área que deseja atuar, destaque uma especialização dentro dessa área, inclua uma ferramenta importante relacionada e mencione uma certificação que está em processo de obtenção. Essa abordagem é chave para o sucesso.**
 ---
 **Vamos juntos fortalecer o conhecimento, Hive.Connect uma comunidade de todos, para todos!**  
