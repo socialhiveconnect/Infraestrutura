@@ -6,16 +6,11 @@
 
 ```mermaid
 flowchart LR
-    A[Redes: Cisco, Alcatel, Mikrotik] --> B[Switches e AP Mikrotik]
-    A --> C[Cisco e Alcatel Configuração]
-    D[Virtualização] --> E[VMware e Hyper-V]
-    F[Servidores] --> G[Linux Server]
-    F --> H[Windows Server]
-    I[Active Directory] --> J[Domínio e GPOs]
-    K[Infraestrutura em Nuvem] --> L[Amazon Web Services AWS]
-    K --> M[Microsoft Azure]
-    N[Monitoramento] --> O[Zabbix]
-    N --> P[Grafana]
+    A[Redes: Cisco, Alcatel, Mikrotik] --> B[Virtualização]
+    B --> C[Servidores]
+    C --> D[Active Directory]
+    D --> E[Infraestrutura em Nuvem]
+    E --> N[Monitoramento]
 ```
 
 # Intermediário
