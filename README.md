@@ -131,21 +131,6 @@ ___
 ### SENAI  
 - [Pós-Graduação em Infraestrutura de TI e Governança](https://www.sp.senai.br/cursos/infraestrutura-de-ti-e-governanca)
 
-### FIPECAFI  
-- [MBA em Gestão de TI, Infraestrutura e Cloud Computing](https://www.fipefafi.br/mba-gestao-ti-infraestrutura-cloud-computing/)
-
-### UNIP  
-- [Pós-Graduação em Infraestrutura e Cloud Computing](https://www.unip.br/pos-graduacao/infraestrutura-e-cloud-computing)
-
-### UNINASSAU  
-- [Pós-Graduação em Redes e Segurança de TI](https://posead.uninassau.edu.br/nossos-cursos/pos-graduacao/redes-e-seguranca-de-ti/)
-
-### Estácio  
-- [Pós-Graduação em Administração de Redes e Sistemas de TI](https://www.estacio.br/pos-graduacao/administracao-de-redes-e-sistemas-de-ti)
-
-### UNISUAM  
-- [Pós-Graduação em DevOps e Infraestrutura de TI](https://www.unisuam.edu.br/pos-graduacao/devops-e-infraestrutura-de-ti)
-
 ### XP Educação  
 - [Pós-graduação em Infraestrutura e Arquitetura de TI](https://www.xpeducacao.com.br/pos-graduacao/infraestrutura-arquitetura-ti)
 
