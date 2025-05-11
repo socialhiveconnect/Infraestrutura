@@ -12,7 +12,7 @@ graph LR;
     F[Servidores] --> G[Linux Server];
     F --> H[Windows Server];
     I[Active Directory] --> J[Domínio e GPOs];
-    K[Infraestrutura em Nuvem] --> L[Amazon Web Services (AWS)];
+    K[Infraestrutura em Nuvem] --> L[Amazon Web Services AWS];
     K --> M[Microsoft Azure];
     N[Monitoramento] --> O[Zabbix];
     N --> P[Grafana];
