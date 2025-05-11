@@ -15,9 +15,8 @@ flowchart LR
 
 # Intermediário
 
-1. **Redes: Cisco, Alcatel e Mikrotik**
-
-## Cisco e Alcatel
+1. **Redes: Cisco, Alcatel e Mikrotik**  
+## Cisco e Alcatel  
 Configuração de switches, roteadores e firewalls, utilizando equipamentos Cisco e Alcatel para redes corporativas.  
 [Cisco Networking Academy](https://www.netacad.com/courses)
 
@@ -27,8 +26,7 @@ Configuração e gerenciamento de switches e pontos de acesso Mikrotik.
 
 
 2. ** Virtualização (VMware e Hyper-V)**
-
-## VMware vSphere: Instalando e Configurando
+## VMware vSphere: Instalando e Configurando  
 Curso para aprender a configurar e gerenciar máquinas virtuais utilizando VMware.  
 [VMware vSphere](https://www.vmware.com/education-services/certification/vsphere.html)
 
@@ -36,10 +34,8 @@ Curso para aprender a configurar e gerenciar máquinas virtuais utilizando VMwar
 Curso sobre a instalação, configuração e gerenciamento de máquinas virtuais com Hyper-V.  
 [Hyper-V](https://learn.microsoft.com/pt-br/virtualization/hyper-v-on-windows/)
 
----
 
 3. **Sistemas Operacionais (Linux Server e Windows Server)**
-
 ## Linux Server
 **Linux Essentials | Linux Academy**  
 Curso essencial sobre administração de servidores Linux, incluindo instalação, configuração e manutenção.  
@@ -56,7 +52,6 @@ Curso sobre criação e gerenciamento de usuários, grupos e políticas de segur
 [Windows AD](https://learn.microsoft.com/pt-br/)
 
 5. ** Infraestrutura em Nuvem (AWS e Microsoft Azure)**
-
 ## Amazon Web Services (AWS)
 **AWS Essentials | AWS Training**  
 Curso para entender os fundamentos da AWS, criação de instâncias e gerenciamento de serviços.  
@@ -70,7 +65,6 @@ Curso básico sobre a plataforma de nuvem da Microsoft, desde a criação de má
 [Azure](https://learn.microsoft.com/pt-br/certifications/azure-fundamentals/)
 
 6. ** Monitoramento (Zabbix e Grafana)**
-
 ## Zabbix
 **Curso Completo de Zabbix**  
 Curso sobre a instalação e configuração do Zabbix para monitoramento de servidores e serviços.  
