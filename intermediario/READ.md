@@ -5,17 +5,17 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Ao final desta trilha, você terá uma visão mais aprofundada da área e poderá aplicar esses conhecimentos em ambientes reais.
 
 ```mermaid
-graph TD;
-    A[Redes: Cisco, Alcatel, Mikrotik] --> B[Switches e AP Mikrotik];
-    A --> C[Cisco e Alcatel Configuração];
-    D[Virtualização] --> E[VMware e Hyper-V];
-    F[Servidores] --> G[Linux Server];
-    F --> H[Windows Server];
-    I[Active Directory] --> J[Domínio e GPOs];
-    K[Infraestrutura em Nuvem] --> L[Amazon Web Services AWS];
-    K --> M[Microsoft Azure];
-    N[Monitoramento] --> O[Zabbix];
-    N --> P[Grafana];
+flowchart LR
+    A[Redes: Cisco, Alcatel, Mikrotik] --> B[Switches e AP Mikrotik]
+    A --> C[Cisco e Alcatel Configuração]
+    D[Virtualização] --> E[VMware e Hyper-V]
+    F[Servidores] --> G[Linux Server]
+    F --> H[Windows Server]
+    I[Active Directory] --> J[Domínio e GPOs]
+    K[Infraestrutura em Nuvem] --> L[Amazon Web Services AWS]
+    K --> M[Microsoft Azure]
+    N[Monitoramento] --> O[Zabbix]
+    N --> P[Grafana]
 ```
 
 # Intermediário
