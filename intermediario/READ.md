@@ -20,76 +20,73 @@ graph LR;
 
 # Intermediário
 
-## Redes: Cisco, Alcatel e Mikrotik
+1. **Redes: Cisco, Alcatel e Mikrotik**
 
-### Cisco e Alcatel
+## Cisco e Alcatel
 Configuração de switches, roteadores e firewalls, utilizando equipamentos Cisco e Alcatel para redes corporativas.  
-[Acesse o curso Cisco Networking Academy](https://www.netacad.com/courses)
+[Cisco Networking Academy](https://www.netacad.com/courses)
 
-### Mikrotik: Switches e AP
+##Mikrotik: Switches e AP
 Configuração e gerenciamento de switches e pontos de acesso Mikrotik.  
-[Acesse o curso Mikrotik MTCNA](https://www.mikrotik.com/training)
+[Mikrotik MTCNA](https://www.mikrotik.com/training)
 
----
 
-## Virtualização (VMware e Hyper-V)
+2. ** Virtualização (VMware e Hyper-V)**
 
-### VMware vSphere: Instalando e Configurando
+## VMware vSphere: Instalando e Configurando
 Curso para aprender a configurar e gerenciar máquinas virtuais utilizando VMware.  
-[Acesse o curso aqui](https://www.vmware.com/education-services/certification/vsphere.html)
+[VMware vSphere](https://www.vmware.com/education-services/certification/vsphere.html)
 
-### Hyper-V para Administradores de TI
+## Hyper-V para Administradores de TI
 Curso sobre a instalação, configuração e gerenciamento de máquinas virtuais com Hyper-V.  
-[Acesse o curso aqui](https://learn.microsoft.com/pt-br/virtualization/hyper-v-on-windows/)
+[Hyper-V](https://learn.microsoft.com/pt-br/virtualization/hyper-v-on-windows/)
 
 ---
 
-## Sistemas Operacionais (Linux Server e Windows Server)
+3. **Sistemas Operacionais (Linux Server e Windows Server)**
 
-### Linux Server
+## Linux Server
 **Linux Essentials | Linux Academy**  
 Curso essencial sobre administração de servidores Linux, incluindo instalação, configuração e manutenção.  
-[Acesse o curso aqui](https://www.linuxacademy.com)
+[Linux Server](https://www.linuxacademy.com)
 
-### Windows Server
+## Windows Server
 **Administração de Windows Server | Udemy**  
 Curso focado na instalação, configuração e administração de Windows Server, incluindo Active Directory e políticas de grupo.  
-[Acesse o curso aqui](https://www.udemy.com/course/administracao-windows-server/)
+[Windows Server](https://www.udemy.com/course/administracao-windows-server/)
 
----
-
-## Active Directory
+4. ** Active Directory**
 **Introdução ao Active Directory**  
 Curso sobre criação e gerenciamento de usuários, grupos e políticas de segurança com Active Directory.  
-[Acesse o curso aqui](https://learn.microsoft.com/pt-br/)
+[Windows AD](https://learn.microsoft.com/pt-br/)
 
----
+5. ** Infraestrutura em Nuvem (AWS e Microsoft Azure)**
 
-## Infraestrutura em Nuvem (AWS e Microsoft Azure)
-
-### Amazon Web Services (AWS)
+## Amazon Web Services (AWS)
 **AWS Essentials | AWS Training**  
 Curso para entender os fundamentos da AWS, criação de instâncias e gerenciamento de serviços.  
-[Acesse o curso aqui](https://aws.amazon.com/training/)
+[AWSi](https://aws.amazon.com/training/)
 
-### Microsoft Azure
+**OU**
+
+## Microsoft Azure
 **Microsoft Certified: Azure Fundamentals**  
 Curso básico sobre a plataforma de nuvem da Microsoft, desde a criação de máquinas virtuais até os serviços de armazenamento e rede.  
-[Acesse o curso aqui](https://learn.microsoft.com/pt-br/certifications/azure-fundamentals/)
+[Azure](https://learn.microsoft.com/pt-br/certifications/azure-fundamentals/)
 
----
+6. ** Monitoramento (Zabbix e Grafana)**
 
-## Monitoramento (Zabbix e Grafana)
-
-### Zabbix
+## Zabbix
 **Curso Completo de Zabbix**  
 Curso sobre a instalação e configuração do Zabbix para monitoramento de servidores e serviços.  
-[Acesse o curso aqui](https://www.zabbix.com/documentation/current/manual/)
+[Zabbix](https://www.zabbix.com/documentation/current/manual/)
 
-### Grafana
+**&**
+
+## Grafana
 **Monitoramento com Grafana**  
 Curso sobre a criação de dashboards de monitoramento e visualização de dados com Grafana.  
-[Acesse o curso aqui](https://grafana.com/docs/grafana/latest/)
+[Grafana](https://grafana.com/docs/grafana/latest/)
 
 ---
 
