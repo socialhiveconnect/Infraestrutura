@@ -1,4 +1,4 @@
-<h1 align="center">Iniciante Infraestrutura de TI</h1>
+<h1 align="center">Iniciante Infraestrutura</h1>
 
 ## Bem-vindo(a) à jornada de aprendizado em Infraestrutura de TI!  
 &nbsp;&nbsp;&nbsp;&nbsp;Essa trilha foi criada especialmente para quem está iniciando na área de infraestrutura e deseja adquirir uma base sólida em redes, organização de ativos e ferramentas essenciais para o dia a dia. Aqui você terá acesso a cursos da Cisco Networking Academy e outras plataformas confiáveis que te ajudarão a desenvolver as habilidades mais requisitadas no mercado de tecnologia.  
