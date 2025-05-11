@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Ao final desta trilha, você terá uma visão mais aprofundada da área e poderá aplicar esses conhecimentos em ambientes reais.
 
 ```mermaid
-graph LR;
+graph TD;
     A[Redes: Cisco, Alcatel, Mikrotik] --> B[Switches e AP Mikrotik];
     A --> C[Cisco e Alcatel Configuração];
     D[Virtualização] --> E[VMware e Hyper-V];
