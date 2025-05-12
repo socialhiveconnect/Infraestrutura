@@ -15,39 +15,39 @@ graph LR;
 # Avançado
 
 1. **Automação e Python para Infraestrutura**
-**Curso: Python para Administradores de Sistema | Udemy**  
-Aprenda a automatizar tarefas de infraestrutura utilizando Python. Ideal para quem busca otimizar e melhorar a eficiência dos processos de TI.  
-[Acesse o curso aqui](https://www.udemy.com/course/python-para-administradores-de-sistema/)
+   **Curso: Python para Administradores de Sistema | Udemy**  
+   Aprenda a automatizar tarefas de infraestrutura utilizando Python. Ideal para quem busca otimizar e melhorar a eficiência dos processos de TI.  
+   [Python para Administradores de Sistema ](https://www.udemy.com/course/python-para-administradores-de-sistema/)
 
 2. **PowerShell para Infraestrutura**
-**Curso: PowerShell para Administradores de Sistemas | Microsoft Learn**  
-Este curso ensina como usar o PowerShell para automatizar e administrar tarefas em servidores Windows.  
-[Acesse o curso aqui](https://learn.microsoft.com/en-us/powershell/scripting/learn/)
+   **Curso: PowerShell para Administradores de Sistemas | Microsoft Learn**  
+   Este curso ensina como usar o PowerShell para automatizar e administrar tarefas em servidores Windows.  
+   [PowerShell para Administradores de Sistemas ](https://learn.microsoft.com/en-us/powershell/scripting/learn/)
 
 3. **Bash para Infraestrutura**
-**Curso: Bash Scripting e Automação | Udemy**  
-Aprenda a usar o Bash para escrever scripts e automatizar tarefas em servidores Linux.  
-[Acesse o curso aqui](https://www.udemy.com/course/bash-scripting-e-automacao/)
+   **Curso: Bash Scripting e Automação | Udemy**  
+   Aprenda a usar o Bash para escrever scripts e automatizar tarefas em servidores Linux.  
+   [Bash Scripting e Automação](https://www.udemy.com/course/bash-scripting-e-automacao/)
 
 4. ** Containers e Docker**
-**Curso: Docker e Containers | Coursera**  
-Curso prático sobre Docker e containers, abordando como configurar, orquestrar e gerenciar containers no ambiente de TI.  
-[Acesse o curso aqui](https://www.coursera.org/learn/docker)
+   **Curso: Docker e Containers | Coursera**  
+   Curso prático sobre Docker e containers, abordando como configurar, orquestrar e gerenciar containers no ambiente de TI.  
+   [Docker e Containers ](https://www.coursera.org/learn/docker)  
 
 5. ** Kubernetes para Orquestração de Containers**
-**Curso: Kubernetes para Iniciantes | Udemy**  
-Aprenda a utilizar Kubernetes para orquestrar containers, escalando aplicações e gerenciando clusters.  
-[Acesse o curso aqui](https://www.udemy.com/course/kubernetes-para-iniciantes/)
+   **Curso: Kubernetes para Iniciantes | Udemy**  
+   Aprenda a utilizar Kubernetes para orquestrar containers, escalando aplicações e gerenciando clusters.  
+   [Acesse o curso aqui](https://www.udemy.com/course/kubernetes-para-iniciantes/)
 
 6. **Conceitos Avançados de Nuvem**
-**Curso: Certificação AWS - Arquitetura de Soluções | AWS Training**  
-Estudo aprofundado sobre arquitetura de soluções em nuvem com AWS, projetando sistemas escaláveis e resilientes.  
-[Acesse o curso aqui](https://aws.amazon.com/training/)
+   **Curso: Certificação AWS - Arquitetura de Soluções | AWS Training**  
+   Estudo aprofundado sobre arquitetura de soluções em nuvem com AWS, projetando sistemas escaláveis e resilientes.  
+   [Kubernetes para Iniciantes](https://aws.amazon.com/training/)
 
 7. **Segurança de Rede**
-**Curso: Segurança em Redes e Proteção de Dados | Coursera**  
-Curso focado em estratégias para garantir a segurança em redes corporativas e a proteção de dados em trânsito.  
-[Acesse o curso aqui](https://www.coursera.org/learn/redes-segurança)
+   **Curso: Segurança em Redes e Proteção de Dados | Coursera**  
+   Curso focado em estratégias para garantir a segurança em redes corporativas e a proteção de dados em trânsito.  
+   [Segurança em Redes e Proteção de Dados |](https://www.coursera.org/learn/redes-segurança)
 
 ---
 
