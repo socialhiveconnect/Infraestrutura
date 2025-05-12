@@ -61,61 +61,69 @@ Infraestrutura lida com a parte física e virtual de diversos equipamentos. Muit
 
 ___
 ## O que você verá em cada módulo:</h1>
-<h1 align="center">Fudamentos</h1>
 <h1 align="center">Iniciante</h1>
 
 ```mermaid
   graph LR;
-    A[Fundamentos de Segurança da Informação] --> B[EDR- Endpoint Detection and Response];
-    A --> C[SIEM - Security Information and Event Management];
-    B --> D[DLP - Data Loss Prevention];
-    B --> E[Segurança de Endpoint];
-    C --> F[RBAC - Role-Based Access Control];
-    C --> G[WAF - Web Application Firewall];
-    G --> H[Firewall];
-    F --> I[Análise de Logs];
-    I --> J[Hacking Ético];
-    J --> K[Segurança Cibernética];
+    A[Fundamentos de Redes de Computadores] --> B[Protocolos de Rede];
+    B --> C[Modelo OSI e TCP/IP];
+    C --> D[Endereçamento IP e Sub-redes];
+    A --> E[Excel para Infraestrutura];
+    A --> F[Normas de Segurança Elétrica];
+    A --> G[Gerenciamento de Ativos];
+    G --> H[OCS Inventory];
+    G --> I[GLPI];
 
-      click A "https://github.com/socialhiveconnect/Seg.Info/tree/main/iniciante" "Veja o repositório de Iniciantes"
+      click A "https://github.com/socialhiveconnect/Infraestrutura/tree/main/iniciante" "Veja o repositório de Iniciantes"
 ```
 
 <h1 align="center">Intermediário</h1>
 
 ```mermaid
     graph LR;
-      A[Intermediário em Segurança da informação]-->B[Introdução à Segurança Cibernética];
-      A-->C[Conceitos de base];
-      B-->D[Cenário de Ameaças];
-      B-->E[Defesa Contra Ameaças Online];
-      C-->F[Segurança em Nuvem];
-      C-->G[Linux para Segurança];
-      G-->H[Wireshark e Análise de Tráfego];
-      F-->I[Cybersecurity Essentials];
-      I-->J[Analista Júnior de Cibersegurança];
-      J-->K[Ethical Hacking];
+    A[Redes: Cisco, Alcatel, Mikrotik] --> B[Virtualização]
+    B --> C[Servidores]
+    C --> D[Active Directory]
+    D --> E[Infraestrutura em Nuvem]
+    E --> N[Monitoramento]
 
-      click A "https://github.com/socialhiveconnect/Seg.Info/tree/main/intermediario" "Veja o repositório Intermediário"
+      click A "https://github.com/socialhiveconnect/Infraestrutura/tree/main/intermediario" "Veja o repositório Intermediário"
 ```
 
 <h1 align="center">Avançado</h1>
 
 ```mermaid
     graph LR;
-      A[Avançados em Segurança da informação]-->B[Introdução à Segurança Cibernética];
-      A-->C[Conceitos de base];
-      B-->D[Cenário de Ameaças];
-      B-->E[Defesa Contra Ameaças Online];
-      C-->F[Segurança em Nuvem];
-      C-->G[Linux para Segurança];
-      G-->H[Wireshark e Análise de Tráfego];
-      F-->I[Cybersecurity Essentials];
-      I-->J[Analista Júnior de Cibersegurança];
-      J-->K[Ethical Hacking];
+    A[Automação de Tarefas com Python, PowerShell e Bash] --> B[Automação de Servidores];
+    B --> C[Criação de Scripts para Manutenção de Infraestrutura];
+    A --> D[Containers e Docker];
+    D --> E[Orquestração com Kubernetes];
+    E --> F[Segurança de Rede e Proteção de Dados];
+    F --> G[Arquiteturas de Nuvem Avançadas];
 
-      click A "https://github.com/socialhiveconnect/Seg.Info/tree/main/avançado" "Veja o repositório Avançado"
+      click A "https://github.com/socialhiveconnect/Infraestrutura/tree/main/avan%C3%A7ado" "Veja o repositório Avançado"
 ```
 ---
+
+## Links Importantes para Infraestrutura de TI
+
+| Categoria | Nome | Descrição | Link |
+| :---: | :---: | :--- | :---: |
+| **Monitoramento** | UptimeRobot | Ferramenta gratuita para monitorar uptime de sites e serviços | [UptimeRobot](https://uptimerobot.com/) |
+| **Monitoramento** | Zabbix | Plataforma de monitoramento de rede e infraestrutura, muito utilizada em ambientes corporativos | [Zabbix](https://www.zabbix.com/) |
+| **Documentação** | Draw.io | Ferramenta online para criação de diagramas de rede, fluxos e arquitetura | [Draw.io](https://app.diagrams.net/) |
+| **Automação** | Ansible | Ferramenta de automação de configuração e provisionamento de servidores | [Ansible](https://www.ansible.com/) |
+| **Automação** | Terraform | Infraestrutura como código (IaC) para provisionamento automatizado em nuvem | [Terraform](https://www.terraform.io/) |
+| **Controle de Acesso** | phpIPAM | Ferramenta de gerenciamento de IPs (IP Address Management) | [phpIPAM](https://phpipam.net/) |
+| **Ferramenta Web** | WhatIsMyIP | Mostra o IP público e informações de rede | [WhatIsMyIP](https://whatismyipaddress.com/) |
+| **Inventário** | GLPI | Sistema de gerenciamento de ativos, inventário e helpdesk | [GLPI](https://glpi-project.org/) |
+| **Repositório** | Awesome SysAdmin | Lista de recursos para administradores de sistemas, incluindo ferramentas e boas práticas | [Awesome SysAdmin](https://github.com/awesome-foss/awesome-sysadmin) |
+| **Backup** | Veeam | Soluções profissionais para backup e recuperação de dados | [Veeam](https://www.veeam.com/) |
+| **Infraestrutura em Nuvem** | AWS Free Tier | Acesso gratuito a diversos serviços AWS para testes e aprendizado | [AWS Free Tier](https://aws.amazon.com/free/) |
+| **Infraestrutura em Nuvem** | Azure Free Account | Crie conta gratuita na Azure com créditos para testar serviços | [Azure Free Account](https://azure.microsoft.com/en-us/free/) |
+
+---
+
 <h1 align="center">Pós-Graduações em Redes/Infraestrutura/DevOps</h1>
 
 ### USP (LARC)
@@ -163,4 +171,30 @@ ___
 → **LPCI 2 (Licensed Penetration Tester - Level 2)** - Para profissionais que buscam um nível avançado de especialização em testes de penetração e segurança.  
 
 ---
+
+## Canais no YouTube sobre Infraestrutura de TI
+
+- [Gustavo Kalau](https://www.youtube.com/c/GustavoKalau)  
+  Conteúdo voltado para infraestrutura, redes, servidores Windows/Linux, virtualização, cloud e certificações como CompTIA, MTA e ITIL.
+
+- [David Bombal](https://www.youtube.com/c/DavidBombal)  
+  Redes, automação com Python, Cisco, certificações e segurança em ambientes corporativos.
+
+- [NetworkChuck](https://www.youtube.com/c/NetworkChuck)  
+  Redes, infraestrutura, hacking ético, automação, café e TI explicada de forma prática e divertida.
+
+- [Professor Ramos](https://www.youtube.com/c/ProfessorRamos)  
+  Conteúdo em português com foco em redes, servidores, Windows, Linux, segurança da informação e certificações.
+
+- [Dio - Digital Innovation One](https://www.youtube.com/c/digitalinnovationone)  
+  Diversas trilhas de aprendizado, incluindo infraestrutura, cloud, devops e segurança.
+
+- [Curso em Vídeo](https://www.youtube.com/c/CursoemVideo)  
+  Curso de Redes de Computadores, Linux e muitos conteúdos gratuitos com linguagem acessível.
+
+- [FreeCodeCamp.org](https://www.youtube.com/c/Freecodecamp)  
+  Apesar do foco maior em programação, também há conteúdos sobre redes, sistemas operacionais, Linux e cloud.
+---
+
+
 **Vamos juntos fortalecer o conhecimento, Hive.Connect uma comunidade de todos, para todos!**  
